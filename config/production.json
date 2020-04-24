@@ -1,0 +1,5 @@
+{
+  "mongodb_Atlas_URI": "mongodb+srv://user123:user123@event-management-99p9h.gcp.mongodb.net/test?retryWrites=true&w=majority",
+  "mLab_URI": "mongodb://user123:user123@ds229118.mlab.com:29118/event-management",
+  "jwtSecret": "BM1IZ4dQtPo5XZiswJ59bXwMPAGxBFny"
+}
