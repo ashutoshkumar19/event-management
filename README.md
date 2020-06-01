@@ -6,4 +6,4 @@ Then start both client and server using single command:
 - npm run dev
 
 ## See this project live on:
-<a href="https://event-management-2020.herokuapp.com">https://event-management-2020.herokuapp.com</a>
+<a href="https://event-management-2020.herokuapp.com" target="_blank">https://event-management-2020.herokuapp.com</a>
